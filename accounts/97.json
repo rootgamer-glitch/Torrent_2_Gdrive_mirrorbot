@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sigma-kayak-320210",
+  "private_key_id": "631b31f1ca66702216bab66a75baf2ff9af348f9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDlLuLXlhGiIOlr\nI9wMlIuzJLYSEAF1x2zcKdgtrcFZMDOtlkxEo6rh2JnR2xBbPhmMFalgKpYMXZ5O\nibK3uQaMVpaNx0r7w/IHw3J3jxqHrxlXzZTZMKQsb/32XJRWNT7b5iKa1ZK70Ey1\nkgHy5gK9WctpwWCAbn3MMT4sKvIKhMhpvi3saJWATuhD9rV4QtRO9+t5dqNBUmf6\nH0mZYGoke3RMncaNNMJWpK+cL78eZW+x9QeK1nT9QQbNtPLR/XBUxyRhj9KUMM7j\nIM63sfnJuz9fXCU5SYU3zF9WmeElaShGI+xKywsqpEnVvSGiUiiaaGUxMKp1WqK0\n04lXKmW7AgMBAAECggEABNcGq09W77qqrWGjg661nlioNNaoD/lZsGwQ2zlBw41/\nmKDZwEVxT1P0+2+0FaVqYHBCdhpQ+ZT70LHJzYBcrjlabZgGFztOF5dNCfFkVL/N\nqS70V2C04j3+EYSB5O1Vnw5V2LKpy9CXP2PBDtWjDYsDNShpYpmXzuG7qIZxpzh9\ng7QcvryroHPmQljw8eCDYC9C/mXWMv6qFNBvMmoh1IXWC893cNshp6hiAu82FgZL\nhLYOHkE2VgEEg5U8JzymAVoCZZD/z407CbKUafCEPwO829eiM5ro9fiwILdgOTrh\nHJqh/eKjJlQA3Lx+cjQISdM+KwrpOuwDVTd3BEw4pQKBgQD9aAepCcxbOICTz7In\n8i9uuugQrG+MjTMPklT8NuGs4+kRbIgYB8q6Y5yn4cgUSn52RlP4FVoRq3z5Pm0h\ny9pDVwgGbzane8LEl4TKfF+V+B/W5I+SOTwlco57n40iisFARDzcbmV/zSuNMdyZ\nwZ4GdMMpT1nvmxLd42Y+F3TSdQKBgQDnh2MS+lh2VU8CODktQyPOqqk1YFUKGTuC\nddcLJAgwLRIfb/F9GralAZ9JqzdD6bYjyB+okINF/cJcUByi7G8ziH+tA8sfEWc1\nhJ25UjeWvM0a5nJhOp4eVpWKeeSaZOicZdAX+gfnxwVXHePJmiR6eJj+Q66FoeIv\nKUF7SXfxbwKBgFY1xiVkB/ogxt2Ck4Gzix+IxtqlT23pu61Yg0ErCqve/bPH0KUc\nQYQXz3vt/Duq/EsQshB8cx//z4ycCFSvHZo7SaemvllMaX6obazVk09aErrxF0cP\n4b57sq2sIj/WJNjQXkQ/6pgIHQD0LbDBhhl8L8kmDdrOTyTd8DK/mCbhAoGBAKyG\nKyJiH/cVfIlX4etDY3RFoU7f2J5szPZa3wIzOFLF0wJQBS/G7yCnw80+YzEc/xdM\nsaKHBPrrq5/kJmKVMgvBg/oloH8nFbRAfNMyW6/cQi3wWHzxFA/hTw9f4yPVW6vn\nBhhHvQpOOEGBSVLZpKMKKF8Xif2T8ppX8K5wwYrLAoGAOAXf927d35e+e+31ytWo\nWCG31ulmNrU7yXXonc3MhNoaBnqI5lSf6+si8SZtC6BKCLKSPAEv6D+cLplXYW4U\nc+77V+lQxAsBlwLXalcbm1fgB27W6QMRNOYlJWhvKtn3h7VaXBteYAPOhFkhoxWI\nrIDhBgmMnmVXjtUOh+3kBOs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-d9wys0orbv9uih5j6xyd8f2j-e@sigma-kayak-320210.iam.gserviceaccount.com",
+  "client_id": "114637233164729126876",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-d9wys0orbv9uih5j6xyd8f2j-e%40sigma-kayak-320210.iam.gserviceaccount.com"
+}
